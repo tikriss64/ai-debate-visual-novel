@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+Thumbs.db
+*.log
+*.lnk
+.env*
+!.env.example
+.claude/
+.idea/
+.vscode/

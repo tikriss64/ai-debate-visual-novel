@@ -1,0 +1,8 @@
+{
+  "name": "Debate de IAs - Novela Visual",
+  "description": "Una aplicación de debate estructurado entre cinco inteligencias artificiales con estética sofisticada de novela visual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
